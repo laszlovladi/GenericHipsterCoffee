@@ -34,6 +34,7 @@ header {
         a:hover {
             color: white;
         }
+
     }
 }
 
@@ -73,14 +74,15 @@ footer {
     }
     a {
         text-decoration: underline;
-        color: rgb(8, 43, 199);
+        color: rgb(90, 145, 237);
     }
      a:hover {
         color: white;
         text-decoration: none;
     }
-    // a:active {
-    //     color: white;
-    //     text-decoration: none;
-    // }
-}
+
+    .insta {
+        font-weight: 700;
+    }
+   
+    
