@@ -1,0 +1,28 @@
+@import 'style-nav.scss';
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    width: 100%;
+    justify-content: center;
+}
+
+ main {
+     width: 80%;
+     background-image: url("/img/story.jpg");
+     background-position: center center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+ section {
+     display: flex;
+     flex-direction: column;
+ }
+
+
+
+
